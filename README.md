@@ -1,7 +1,5 @@
 # Desafio Frontend - Smart Fit
 
-![Smart Fit](./src/assets/images/svg/logo.svg)
-
 Este repositório contém a solução para o desafio de [Front-end da Smart Fit](https://github.com/bioritmo/front-end-code-challenge-smartsite/tree/master) desenvolvido durante o vídeo em meu canal. Eu utilizei o framework Angular para desenvolver a aplicação, e você pode assistir o vídeo onde resolvi o desafio em meu canal [aqui](https://www.youtube.com/watch?v=ozZXMkp8MnQ).
 
 ## 📖 Sobre o desafio
@@ -34,8 +32,8 @@ Para executar a aplicação localmente, siga os passos abaixo:
 1. Clone este repositório:
 
 ```bash
-  git clone https://github.com/Fernanda-Kipper/smartfit-frontend-challenge.git
-  cd smartfit-frontend-challenge
+  git clone https://github.com/JuliaCrumenauer/angular-desafio-smartfit
+  cd desafio-smartfit
 
 ```
 
